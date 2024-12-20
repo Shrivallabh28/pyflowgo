@@ -47,7 +47,7 @@ if __name__ == "__main__":
     -> the range of effusion rates
     -> the slope file """
 
-    effusion_rates = {pythi
+    effusion_rates = {
         "first_eff_rate": 5,
         "last_eff_rate": 35,
         "step_eff_rate": 5
